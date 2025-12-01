@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className={styles.container}>
                 <div className={styles.logo}>
                     <Link href="/">
-                        <img src="/logo.png" alt="PROBETEK" className={styles.logoImage} />
+                        <img src="/probetek/logo.png" alt="PROBETEK" className={styles.logoImage} />
                     </Link>
                 </div>
                 <nav className={styles.nav}>
